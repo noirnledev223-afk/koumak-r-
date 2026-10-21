@@ -16,6 +16,86 @@
       "francais": "Si tu dis qu'un village est loin, il y en a un autre après ce dernier",
       "explication": "C'est pour dire qu'on est toujours au milieu : si tu penses avoir fait plus ou moins, sache que quelqu'un d'autre a fait encore plus, ou pire, que toi.",
       "exemple": "Si tu te crois meilleur dans un domaine, il y a toujours quelqu'un de plus doué que toi."
-    }
+    },
+    {
+  "id": 3,
+  "nom": "Amadou Hampate-ba",
+  "bambara": "",
+  "francais": "En Afrique, Un vieillard qui meurt, c'est une bibliothèque qui brûle",
+  "explication": "Les anciens portent le savoir, l'histoire et les traditions transmis par la parole. Quand ils disparaissent sans avoir transmis, tout ce savoir disparaît avec eux.",
+  "exemple": "Écouter les récits de ses grands-parents tant qu'ils sont là, pour garder la mémoire de la famille."
+},
+{
+  "id": 4,
+  "nom": "Samake",
+  "bambara": "Galon ma na san tan kai bolila, tigne be tigai ka la tilen kelen",
+  "francais": "Le mensonge a beau courir un an, la vérité le rattrape en un jour",
+  "explication": "Un mensonge peut tenir longtemps, mais il finit toujours par être découvert, et la vérité n'a pas besoin de se presser pour gagner.",
+  "exemple": "Quelqu'un cache une faute à son employeur pendant des mois, puis tout est révélé en un seul jour."
+},
+{
+  "id": 5,
+  "nom": "let us code for you",
+  "bambara": "I kelen be tagama teliyala nga aw djama be tagama yoro djan",
+  "francais": "Si tu veux aller vite, marche seul ; si tu veux aller loin, marchons ensemble",
+  "explication": "Seul, on avance plus vite, mais ensemble, on va plus loin et on tient plus longtemps. Les grandes réussites demandent de la solidarité.",
+  "exemple": "Un projet de quartier réussit parce que chacun apporte sa part, même si cela prend plus de temps."
+},
+{
+  "id": 6,
+  "nom": "let us code for you",
+  "bambara": "Yiri kouroun mai o mai dji la a te kai bamba ye",
+  "francais": "Le tronc d'arbre a beau séjourner dans l'eau, il ne deviendra jamais un crocodile",
+  "explication": "Le milieu dans lequel on vit ne change pas ce que l'on est. On ne devient pas quelqu'un d'autre simplement en fréquentant les gens ou les lieux qui le sont.",
+  "exemple": "Porter les habits d'un riche ne rend pas riche, de même que vivre longtemps à l'étranger n'efface pas ses origines."
+},
+{
+  "id": 7,
+  "nom": "Tata",
+  "bambara": "Doni doni kononi ba gnagada",
+  "francais": "Petit à petit, l'oiseau fait son nid",
+  "explication": "Les grandes choses se construisent avec de la patience et de la constance, un geste après l'autre.",
+  "exemple": "Mettre un peu d'argent de côté chaque semaine permet un jour de réaliser un grand projet."
+},
+{
+  "id": 8,
+  "nom": "let us code for you",
+  "bambara": "Gninikali kai la te fili a ka sira kan",
+  "francais": "Celui qui pose des questions ne se perd pas en chemin",
+  "explication": "Demander conseil n'est pas une faiblesse. Celui qui accepte de ne pas savoir évite de grosses erreurs.",
+  "exemple": "Un jeune commerçant demande l'avis d'un ancien avant de s'installer dans un nouveau marché."
+},
+{
+  "id": 9,
+  "nom": "Diarra",
+  "bambara": "Fo ni don mina waraba kouma na no tai doson kai ma kougo goman kai",
+  "francais": "Tant que les lions n'auront pas leur propre historien, l'histoire de la chasse glorifiera toujours le chasseur",
+  "explication": "Celui qui raconte l'histoire la raconte à son avantage. Il faut écouter plusieurs voix, et chaque peuple doit pouvoir raconter sa propre histoire.",
+  "exemple": "Deux voisins se disputent, et chacun raconte l'affaire en sa faveur : il faut écouter les deux avant de juger."
+},
+{
+  "id": 10,
+  "nom": "Coulibaly",
+  "bambara": "Ni djougou te so kono, kainai ma taw te se ka fochi kai",
+  "francais": "Quand il n'y a pas d'ennemi à l'intérieur, ceux du dehors ne peuvent rien contre toi",
+  "explication": "La force d'une famille, d'un village ou d'un pays vient de son unité. Les menaces extérieures n'ont de prise que sur les divisions internes.",
+  "exemple": "Une équipe soudée résiste aux difficultés, alors qu'une équipe divisée s'effondre à la première crise."
+},
+{
+  "id": 11,
+  "nom": "Saammaakee",
+  "bambara": "Nain be yelema ko tchaman kai gnani ka kouma",
+  "francais": "Il faut tourner sept fois sa langue avant de parler",
+  "explication": "Une parole prononcée ne se rattrape pas. Mieux vaut réfléchir avant de parler que regretter ce que l'on a dit.",
+  "exemple": "Avant de répondre sur le coup de la colère, on respire et on choisit ses mots."
+},
+{
+  "id": 12,
+  "nom": "let us code for you",
+  "bambara": "Ni folisen falen na, i be don se fana falen",
+  "francais": "Quand la danse change de rythme, il faut aussi changer de pas",
+  "explication": "Le monde évolue, et il faut savoir s'adapter aux changements au lieu de s'accrocher aux anciennes méthodes.",
+  "exemple": "Un artisan apprend à vendre par téléphone quand ses clients ne passent plus à la boutique."
+}
   ]
 }
