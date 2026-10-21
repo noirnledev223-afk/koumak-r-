@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "proverbes": [
+    {
+      "id": 1,
+      "nom": "let us code for you",
+      "bambara": "Fere koun ye tônô ye",
+      "francais": "On vend pour du bénéfice",
+      "explication": "C'est pour dire que l'on ne fait rien gratuitement sans s'attendre à quelque chose en retour, puisqu'aucun commerçant ne se déplace pour acheter un produit à un prix et le revendre à ce même prix.",
+      "exemple": "Si tu travailles et que tu vois que le bénéfice ne t'apporte pas plus que le dégât qui pourrait se produire."
+    },
+    {
+      "id": 2,
+      "nom": "let us code for you",
+      "bambara": "Ni ko dugu dô ka djan dôwêrê bo kôfai",
+      "francais": "Si tu dis qu'un village est loin, il y en a un autre après ce dernier",
+      "explication": "C'est pour dire qu'on est toujours au milieu : si tu penses avoir fait plus ou moins, sache que quelqu'un d'autre a fait encore plus, ou pire, que toi.",
+      "exemple": "Si tu te crois meilleur dans un domaine, il y a toujours quelqu'un de plus doué que toi."
+    }
+  ]
+}
